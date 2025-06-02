@@ -16,7 +16,7 @@ export function Header() {
 
     return (
         <header
-            className={`fixed left-0 ring-0 w-full py-4 z-50 ${headerClass}`}
+            className={`fixed left-0 ring-0 w-full py-6 z-50 ${headerClass}`}
         >
             <div className="px-2 container mx-auto flex items-center justify-between">
                 <img
