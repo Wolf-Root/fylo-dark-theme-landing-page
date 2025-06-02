@@ -1,6 +1,6 @@
 import { faCircleArrowRight } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import illustration from "../images/illustration-intro.png";
+import illustration from "../images/illustration-stay-productive.png";
 
 
 export function Team() {
