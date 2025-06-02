@@ -20,6 +20,7 @@ html {
     scroll-behavior: smooth;
     scrollbar-color: hsl(176, 68%, 64%) hsl(218, 28%, 13%);
 }
+
 ::-webkit-scrollbar {
     width: 8px;
 }
@@ -49,14 +50,14 @@ header {
 }
 
 #Hero {
-    background: url("/public/images/bg-curvy-desktop.svg") no-repeat center bottom;
+    background: url("images/bg-curvy-desktop.svg") no-repeat center bottom;
     background-size: contain;
     background-color: var(--color-Dark-Blue-intro);
 }
 
 @media (max-width: 768px) {
     #Hero {
-        background: url("/public/images/bg-curvy-mobile.svg") no-repeat center bottom;
+        background: url("images/bg-curvy-mobile.svg") no-repeat center bottom;
         background-size: contain;
         background-color: hsl(217, 28%, 15%);
     }
