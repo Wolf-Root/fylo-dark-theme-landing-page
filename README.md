@@ -1,14 +1,37 @@
-# Fylo-Dark-Theme-Landing-Page-Master
+# Fylo Dark Theme Landing Page
 
-# React + Vite
+Developed a fully responsive landing page based on the Fylo dark theme design challenge. The page features a clean layout, elegant typography, and consistent spacing. Implemented modern front-end techniques including Flexbox and Tailwind CSS for fast development and mobile-first responsiveness. Optimized for different screen sizes with attention to design fidelity.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of Contents
 
-Currently, two official plugins are available:
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My Process](#my-process)
+  - [Built With](#built-with)
+- [Author](#author)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
 
-## Expanding the ESLint configuration
+### Screenshot
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![App Screenshot](/public/screenshot.png)
+
+### Links
+
+- [Live Site](https://wolf-root.github.io/fylo-dark-theme-landing-page/)
+- [React Documentation](https://react.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+## My Process
+
+### Built With
+
+- [React](https://react.dev/) v19.1
+- [Tailwind CSS](https://tailwindcss.com/) v4.1
+
+## Author
+
+- Portfolio – [yousseffed.vercel.app](https://yousseffed.vercel.app/)
+- Frontend Mentor – [@Wolf-Root](https://www.frontendmentor.io/profile/Wolf-Root)
+- Twitter – [@wolf_R00T](https://x.com/wolf_R00T)
